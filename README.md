@@ -62,5 +62,4 @@ Here are some ideas to get you started:
  <br>
 
 <img align ="left" src="https://github-readme-stats.vercel.app/api?username=ashutoshdubey133&show_icons=true&theme=radical">
- <br>
 <img align ="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashutoshdubey133&layout=compact">
