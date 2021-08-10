@@ -16,7 +16,7 @@
 <br>
 
 <div align="center">
-<h3> ☕️ Java Developer | 🇮🇳 India </h3>
+<h3> ♨️ Java Developer | 🇮🇳 India </h3>
 </div>
 
 <!--### About Me
@@ -59,7 +59,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+ <br>
 
-[![Ashutosh's GitHub stats](https://github-readme-stats.vercel.app/api?username=ashutoshdubey133&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ashutoshdubey133&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<img align ="left" src="https://github-readme-stats.vercel.app/api?username=ashutoshdubey133&show_icons=true&theme=radical">
+ <br>
+<img align ="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashutoshdubey133&layout=compact">
