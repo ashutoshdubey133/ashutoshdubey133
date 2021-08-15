@@ -16,7 +16,7 @@
 <br>
 
 <div align="center">
-<h3> ♨️ Java Developer | 🇮🇳 India </h3>
+<h3> ♨️ Java Developer |📱 Android | 🇮🇳 India </h3>
 </div>
 
 <!--### About Me
