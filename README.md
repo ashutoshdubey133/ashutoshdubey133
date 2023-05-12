@@ -16,7 +16,7 @@
 <br>
 
 <div align="center">
-<h3> ♨️ Java Developer |📱 Android | 🇮🇳 India </h3>
+<h3> ♨️ Java Spring Boot Developer |📱 Android | 🇮🇳 India </h3>
 </div>
 
 <!--### About Me
@@ -59,6 +59,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
- <br>
-<img src="https://github-readme-stats.vercel.app/api?username=ashutoshdubey133&show_icons=true&theme=radical">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashutoshdubey133&layout=compact">
+<br><img align="left" height="200px" src="https://github-readme-stats.vercel.app/api?username=ashutoshdubey133&show_icons=true&theme=highcontrast"><img align="right" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashutoshdubey133&layout=compact&theme=highcontrast">
